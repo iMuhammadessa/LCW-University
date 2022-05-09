@@ -1,0 +1,37 @@
+.header
+{
+	background-color: #efece5;
+}
+
+.ul {
+  list-style-type: none;
+  font-size: 16px;
+  padding-left: 250px;
+  overflow: hidden;
+  background-color: #2e8751;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: #f0c237;
+  text-decoration: none;
+}
+.active
+{
+	color: #f0c237;
+}
+.hr
+{
+  border: 3px solid #efece5;
+}
